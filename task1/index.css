@@ -48,3 +48,8 @@ body {
     min-height: 30px;
     border-radius: 5px;
 }
+
+.emoji-img {
+    height: 22px;
+    width: 22px;
+}
